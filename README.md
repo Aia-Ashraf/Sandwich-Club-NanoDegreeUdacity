@@ -1,4 +1,4 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club Project 
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
@@ -11,7 +11,7 @@ is a common task for Android Developers. Although JSON parsing is usually
 done using libraries, writing the JSON parsing for  this project will
 help you to better understand how it is processed.
 
-## What Will I Learn?
+## What I Learned?
 Through this project, you will:
 - Learn how to submit projects for review
 - Practice JSON parsing to a model object
